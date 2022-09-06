@@ -15,6 +15,7 @@ https://www.amsmeteors.org
 
 * $ npm init -y (initialize package manager)
 * $ npm install cypress (install cypress)
+* $ npx cypress open (first time, create folders and examples)
 
 ### Run all Tests
 
