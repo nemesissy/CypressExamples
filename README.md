@@ -16,6 +16,7 @@ https://www.amsmeteors.org
 * $ npm init -y (initialize package manager)
 * $ npm install cypress (install cypress)
 * $ npx cypress open (first time, create folders and examples)
+* Click through to configure E2E testing
 
 ### Run all Tests
 
